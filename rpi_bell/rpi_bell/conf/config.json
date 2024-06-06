@@ -1,0 +1,7 @@
+{
+	"motor_gpio": 3,
+	"button_gpio": 2,
+	"motor_duration": 0
+}
+
+	
